@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" href="https://www.linkedin.com/in/ena-dodic-67b889205/" />
+  <a href="https://www.linkedin.com/in/ena-dodic-67b889205/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" /></a>
 </div>
 
 ###
