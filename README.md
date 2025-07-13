@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Dedicated and highly skilled Software engineer with 4+ years of experience crafting exceptional user experiences through innovative web design and development. Adept at transforming complex ideas into intuitive, pixel-perfect interfaces that drive user engagement and satisfaction. Strong problem-solving abilities and a passion for staying current with industry trends and emerging technologies. Consistently recognized for delivering high-quality code, while maintaining a keen eye for detail and usability. Effective communicator and team player, able to bridge the gap between design and development to create visually stunning and functionally robust web solutions.</p>
+<p align="left">Dedicated and highly skilled Software engineer with 5+ years of experience crafting exceptional user experiences through innovative web design and development. Adept at transforming complex ideas into intuitive, pixel-perfect interfaces that drive user engagement and satisfaction. Strong problem-solving abilities and a passion for staying current with industry trends and emerging technologies. Consistently recognized for delivering high-quality code, while maintaining a keen eye for detail and usability. Effective communicator and team player, able to bridge the gap between design and development to create visually stunning and functionally robust web solutions.</p>
 
 ###
 
