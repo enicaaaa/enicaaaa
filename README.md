@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ <br>📚 I’m currently learning Golang <br>💬 Ask me about Next.js, React, .NET, databases, etc.<br>🎯 Goals: Focus on creating a wide range of games that offer users entertaining and immersive experiences<br>🎲 Fun fact: I'm a powerful girl who's an artist at heart and loves to code<br>📫 How to reach me: enicaaaa99@gmail.com</p>
+<p align="left">✨ <br>📚 I’m currently learning ML and AI <br>💬 Ask me about Next.js, React, TypeScript, JavaScript, etc.<br>🎯 Goals: Focus on creating a wide range of games that offer users entertaining and immersive experiences<br>🎲 Fun fact: I'm a powerful girl who's an artist at heart and loves to code<br>📫 How to reach me: enicaaaa99@gmail.com</p>
 
 ###
 
