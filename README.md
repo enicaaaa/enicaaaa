@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ena 👋</h1>
-<h3 align="center">Senior Frontend Engineer → Future Tech Lead</h3>
+<h3 align="center">Senior Frontend Engineer</h3>
 
 <p align="center">
 Building scalable frontend systems, not just interfaces.
@@ -106,18 +106,18 @@ Exploring AI integration inside modern stacks:
 - Transition into Tech Lead role  
 - Drive architectural decisions  
 - Improve team engineering standards  
-- Contribute to scalable product strategy  
-- Build my own software company  
+- Contribute to scalable product strategy
+- Become an excellent speaker!
 
 ---
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn URL]
-- Email: your.email@example.com
+- LinkedIn: www.linkedin.com/in/ena-dodic-67b889205
+- Email: enicaaaa99@gmail.com
 
 ---
 
 <p align="center">
-  <b>I build systems that grow with the business.</b>
+  <b>I build systems that grow with the business. 🚀</b>
 </p>
