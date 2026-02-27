@@ -1,84 +1,123 @@
-<h1 align="center">Hi 👋, I'm Ena!</h1>
+<h1 align="center">Hi, I'm Ena 👋</h1>
+<h3 align="center">Senior Frontend Engineer → Future Tech Lead</h3>
 
-###
+<p align="center">
+Building scalable frontend systems, not just interfaces.
+</p>
 
-<p align="left">Dedicated and highly skilled Software engineer with 5+ years of experience crafting exceptional user experiences through innovative web design and development. Adept at transforming complex ideas into intuitive, pixel-perfect interfaces that drive user engagement and satisfaction. Strong problem-solving abilities and a passion for staying current with industry trends and emerging technologies. Consistently recognized for delivering high-quality code, while maintaining a keen eye for detail and usability. Effective communicator and team player, able to bridge the gap between design and development to create visually stunning and functionally robust web solutions.</p>
+---
 
-###
+## 🚀 About Me
 
-<h2 align="left">About me</h2>
+I am a frontend engineer focused on **architecture, scalability, and long-term product thinking**.
 
-###
+My goal is to transition into a **Tech Lead role**, owning technical direction, mentoring engineers, and designing systems that scale with business growth.
 
-<p align="left">✨ <br>📚 I’m currently learning ML and AI <br>💬 Ask me about Next.js, React, TypeScript, JavaScript, etc.<br>🎯 Goals: Focus on creating a wide range of games that offer users entertaining and immersive experiences<br>🎲 Fun fact: I'm a powerful girl who's an artist at heart and loves to code<br>📫 How to reach me: enicaaaa99@gmail.com</p>
+I work at the intersection of:
 
-###
+- Product thinking  
+- System design  
+- Performance engineering  
+- Clean, maintainable architecture  
 
-<h2 align="left">Connect with me</h2>
+---
 
-###
+## 🧠 Technical Leadership Mindset
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-</div>
+✔ Designing frontend architectures for scale  
+✔ Making business-aware technical decisions  
+✔ Mentoring & reviewing code  
+✔ Improving performance & developer experience  
+✔ Structuring projects for long-term maintainability  
 
-###
+I believe strong frontend architecture is a competitive advantage.
 
-<h2 align="left">I code with</h2>
+---
 
-###
+## 🛠 Core Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openal/openal-original.svg" height="40" alt="openal logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-</div>
+### Frontend Architecture
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-###
+### State & Data
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enicaaaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enicaaaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+### Backend & Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-###
+---
+
+## 🧩 Selected Work
+
+### 🏥 Medical Web System
+Scalable system for medical institutions focused on:
+
+- Complex data visualization  
+- Role-based access control  
+- System modularization  
+- AI assistant integration concepts  
+
+---
+
+### 🎬 Subscription-Based Video Platform
+Platform architecture designed for:
+
+- Auth & payment flows (Stripe / PayPal)  
+- SEO optimization  
+- Multi-language support  
+- Clean and extensible UI system  
+- Future microservice scalability  
+
+---
+
+### 🤖 AI Integrations in Web Systems
+Exploring AI integration inside modern stacks:
+
+- OpenAI API workflows  
+- Server-side AI processing  
+- T3 Stack + AI synergy  
+- AWS Bedrock research concepts  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 2026 Focus
+
+- Transition into Tech Lead role  
+- Drive architectural decisions  
+- Improve team engineering standards  
+- Contribute to scalable product strategy  
+- Build my own software company  
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: [Your LinkedIn URL]
+- Email: your.email@example.com
+
+---
+
+<p align="center">
+  <b>I build systems that grow with the business.</b>
+</p>
