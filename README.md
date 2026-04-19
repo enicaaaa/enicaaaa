@@ -100,9 +100,9 @@ Exploring AI integration inside modern stacks:
 ---
 
 ## 📫 Let's Connect
-
-- LinkedIn: www.linkedin.com/in/ena-dodic-67b889205
-- Email: enicaaaa99@gmail.com
+- 🌐 Website: [enadodic.dev](https://ena-dodic-dev.vercel.app/)
+- 💼 LinkedIn: [ena-dodic](https://www.linkedin.com/in/ena-dodic-67b889205)
+- 📧 Email: enicaaaa99@gmail.com
 
 ---
 
